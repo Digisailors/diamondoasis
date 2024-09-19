@@ -24,26 +24,26 @@ tpj(document).ready(function() {
                     swipe_direction: "horizontal",
                     drag_block_vertical: false
                 },
-                arrows: {
-                    style: "metis",
-                    enable: true,
-                    hide_onmobile: true,
-                    hide_under: 600,
-                    hide_onleave: false,
-                    tmp: '',
-                    left: {
-                        h_align: "left",
-                        v_align: "center",
-                        h_offset: 0,
-                        v_offset: 0
-                    },
-                    right: {
-                        h_align: "right",
-                        v_align: "center",
-                        h_offset: 0,
-                        v_offset: 0
-                    }
-                }
+                // arrows: {
+                //     style: "metis",
+                //     enable: true,
+                //     hide_onmobile: true,
+                //     hide_under: 600,
+                //     hide_onleave: false,
+                //     tmp: '',
+                //     left: {
+                //         h_align: "left",
+                //         v_align: "center",
+                //         h_offset: 0,
+                //         v_offset: 0
+                //     },
+                //     right: {
+                //         h_align: "right",
+                //         v_align: "center",
+                //         h_offset: 0,
+                //         v_offset: 0
+                //     }
+                // }
 
             },
             responsiveLevels: [1200, 1040, 802, 480],
